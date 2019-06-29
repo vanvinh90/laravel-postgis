@@ -1,5 +1,5 @@
 {
-    "name": "phaza/laravel-postgis",
+    "name": "skcompany/laravel-postgis",
     "description": "Postgis extensions for laravel. Aims to make it easy to work with geometries from laravel models",
     "require": {
         "php": ">=5.5",
